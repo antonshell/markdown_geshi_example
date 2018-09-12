@@ -1,0 +1,6 @@
+{
+    "require": {
+        "erusev/parsedown": "^1.7",
+        "geshi/geshi": "^1.0"
+    }
+}
