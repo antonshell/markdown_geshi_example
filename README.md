@@ -10,9 +10,14 @@ https://github.com/erusev/parsedown
 
 ## Demo
 
+Code higlight example:
+
+<p align="center">
+    <img src="http://demo.antonshell.me/markdown_geshi_example/img/demo/1.jpg" alt="markdown_geshi_example" />   
+</p>
+
 Demo available here:
-
-
+http://demo.antonshell.me/markdown_geshi_example/
 
 ## Setup
 
