@@ -2,6 +2,18 @@
 
 There is example of usage markdown and geshi code highlighter for blog posts.
 
+GeSHi - Generic Syntax Highlighter, written in PHP
+https://github.com/GeSHi/geshi-1.0
+
+Markdown parser:
+https://github.com/erusev/parsedown
+
+## Demo
+
+Demo available here:
+
+
+
 ## Setup
 
 1 . Clone repository
@@ -14,6 +26,12 @@ git clone ...
 
 ```
 composer install 
+```
+
+3 . Build posts 
+
+```
+php build_posts.php
 ```
 
 ## Usage:
