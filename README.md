@@ -2,6 +2,9 @@
 
 There is example of usage markdown and geshi code highlighter for blog posts.
 
+Related article:
+http://antonshell.me/post/markdown-geshi-highlight
+
 GeSHi - Generic Syntax Highlighter, written in PHP
 https://github.com/GeSHi/geshi-1.0
 
